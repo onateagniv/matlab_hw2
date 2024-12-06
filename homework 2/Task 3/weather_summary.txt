@@ -1,0 +1,4 @@
+Weather Summary
+Average Temperature: 24.30 Degrees Celsius
+Average Humidity: 70.00%
+Total Precipitation: 50.00mm
